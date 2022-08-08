@@ -1,7 +1,8 @@
 namespace ToDoList.Models
 {
-  public class ItemTests
+  public class Item
   {
 
+    
   }
 }
