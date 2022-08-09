@@ -7,9 +7,10 @@ namespace ToDoList.Tests
 {
   [TestClass]
   public class ItemTests : IDisposable
+                      // extends ItemsTests class to use Dispose method.
   {
 
-    public void Dispose()
+    public void Dispose() // this method runs after every test.
     {
       Item.ClearAll();
     }
