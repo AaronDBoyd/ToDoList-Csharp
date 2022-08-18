@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jGGx73A/O8lrWhixxrk/tIJO5aLMqQEApUtStLQ8F1Wq4mzJ2uh4b88NQ2LDEDHoxe4yNCeaY8aociUz9PtTcg==",
+  "dgSpecHash": "I/2ycbBOJyvJe64D+iwr5MGFZLbPwcIcRmVLWc6Qo02aIb4yDGXp7azeBAik+N03d9ygchW6l7fHz0FcW5/Trg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aaron\\Desktop\\todo-list-c#\\ToDoList.Solution\\ToDoList.Tests\\ToDoList.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Aaron\\Desktop\\todo-list-c#\\todolist.solution\\todolist.tests\\ToDoList.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.net.test.sdk\\15.0.0\\microsoft.net.test.sdk.15.0.0.nupkg.sha512",

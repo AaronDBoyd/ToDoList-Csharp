@@ -94,3 +94,9 @@ C:\Users\Aaron\Desktop\todo-list-c#\ToDoList.Solution\ToDoList.Tests\obj\Debug\n
 C:\Users\Aaron\Desktop\todo-list-c#\ToDoList.Solution\ToDoList.Tests\obj\Debug\net5.0\ref\ToDoList.Tests.dll
 C:\Users\Aaron\Desktop\todo-list-c#\ToDoList.Solution\ToDoList.Tests\obj\Debug\net5.0\ToDoList.Tests.pdb
 C:\Users\Aaron\Desktop\todo-list-c#\ToDoList.Solution\ToDoList.Tests\obj\Debug\net5.0\ToDoList.Tests.genruntimeconfig.cache
+C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist.tests\bin\Debug\net5.0\ToDoList.Views.dll
+C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist.tests\bin\Debug\net5.0\ToDoList.Views.pdb
+C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist.tests\bin\Debug\net5.0\ToDoList.deps.json
+C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist.tests\bin\Debug\net5.0\ToDoList.runtimeconfig.json
+C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist.tests\bin\Debug\net5.0\ToDoList.runtimeconfig.dev.json
+C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist.tests\bin\Debug\net5.0\ToDoList.exe
