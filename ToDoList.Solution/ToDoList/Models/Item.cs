@@ -7,7 +7,7 @@ namespace ToDoList.Models
   public class Item
   {
     public string Description { get; set; }
-    public int Id { get; }
+    public int Id { get; set; }
     
 
     public Item(string description)
@@ -75,6 +75,27 @@ namespace ToDoList.Models
         Item newItem = (Item) otherItem;
         bool descriptionEquality = (this.Description == newItem.Description);
         return descriptionEquality;
+      }
+    }
+
+    public void Save()
+    {
+      MySqlConnection conn = DB.Connection();
+      conn.Open();
+      MySqlCommand cmd = conn.CreateCommand() as MySqlCommand;
+
+      cmd.CommandText = "INSERT INTO items (description) VALUES (@ItemDescription);";
+      MySqlParameter param = new MySqlParameter();
+      param.ParameterName = "@ItemDescription";
+      param.Value = this.Description;
+      cmd.Parameters.Add(param);    
+      cmd.ExecuteNonQuery();
+      Id = (int) cmd.LastInsertedId;
+
+      conn.Close();
+      if (conn != null)
+      {
+        conn.Dispose();
       }
     }
   }
