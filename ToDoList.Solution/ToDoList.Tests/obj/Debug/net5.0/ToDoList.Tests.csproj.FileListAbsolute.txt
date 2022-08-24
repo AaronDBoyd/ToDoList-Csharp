@@ -100,3 +100,4 @@ C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist.tests\bin\Debug\n
 C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist.tests\bin\Debug\net5.0\ToDoList.runtimeconfig.json
 C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist.tests\bin\Debug\net5.0\ToDoList.runtimeconfig.dev.json
 C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist.tests\bin\Debug\net5.0\ToDoList.exe
+C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist.tests\bin\Debug\net5.0\MySqlConnector.dll

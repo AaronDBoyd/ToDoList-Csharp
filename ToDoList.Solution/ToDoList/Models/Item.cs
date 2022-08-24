@@ -10,6 +10,10 @@ namespace ToDoList.Models
     public int Id { get; }
     
 
+    public Item(string description)
+    {
+      Description = description;
+    }   
     public Item(string description, int id)
     {
       Description = description;
