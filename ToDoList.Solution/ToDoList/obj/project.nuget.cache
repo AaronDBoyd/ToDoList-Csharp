@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8WAGd5zFY2vRi3IIL4uTHubSkWCKf80YpSals21KZh1qdaLvxEDrjZ3cg/xxeJkX6OaERrJA5K53AkKtPOsC9g==",
+  "dgSpecHash": "aRVn0QJC1yYkCgKl2q5x3Z6q7Cgv9sGX+hs1Y6mNlFRQt1PFTtibmtoQLHAn8tr8hWMzubCOU49PAUiSsLltmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aaron\\Desktop\\todo-list-c#\\todolist.solution\\todolist\\ToDoList.csproj",
+  "projectFilePath": "C:\\Users\\Aaron\\Desktop\\todo-list-c#\\todolist.solution\\ToDoList\\ToDoList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aaron\\.nuget\\packages\\mysqlconnector\\0.69.0\\mysqlconnector.0.69.0.nupkg.sha512"
   ],
