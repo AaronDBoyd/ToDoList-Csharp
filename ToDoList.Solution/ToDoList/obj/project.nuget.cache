@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "G9LOnWsHXjqYyQiqq9by1G6eoEcQEz8OMwLFQ8lFqBIiWSeQ66TsU5RJuxCJW3B+PqOT47g5ieHPeQ6aNahdJg==",
-  "success": false,
+  "dgSpecHash": "R3tVgOCAfHB0ss/RlefvfCpLJS2/1h0x0gMEaDXvPjA/u7WlMFtDvjcbev3tPteffqu1u0iXNV835a9FY2dy1w==",
+  "success": true,
   "projectFilePath": "C:\\Users\\Aaron\\Desktop\\todo-list-c#\\todolist.solution\\todolist\\ToDoList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
@@ -17,21 +17,11 @@
     "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
-    "C:\\Users\\Aaron\\.nuget\\packages\\mysqlconnector\\0.69.0\\mysqlconnector.0.69.0.nupkg.sha512",
+    "C:\\Users\\Aaron\\.nuget\\packages\\mysqlconnector\\1.1.0\\mysqlconnector.1.1.0.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\5.0.0-alpha.2\\pomelo.entityframeworkcore.mysql.5.0.0-alpha.2.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Detected package downgrade: MySqlConnector from 1.1.0 to 0.69.0. Reference the package directly from the project to select a different version. \r\n ToDoList -> Pomelo.EntityFrameworkCore.MySql 5.0.0-alpha.2 -> MySqlConnector (>= 1.1.0) \r\n ToDoList -> MySqlConnector (>= 0.69.0)",
-      "libraryId": "MySqlConnector",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  "logs": []
 }
