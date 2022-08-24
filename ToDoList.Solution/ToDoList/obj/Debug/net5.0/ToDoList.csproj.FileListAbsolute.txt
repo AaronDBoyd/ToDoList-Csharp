@@ -47,3 +47,4 @@ C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist\bin\Debug\net5.0\
 C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
 C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
