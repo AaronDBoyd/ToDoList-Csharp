@@ -52,3 +52,4 @@ C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist\obj\Debug\net5.0\
 C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
 C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist\bin\Debug\net5.0\Humanizer.dll
 C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aaron\Desktop\todo-list-c#\todolist.solution\todolist\obj\Debug\net5.0\Razor\Views\Items\AddCategory.cshtml.g.cs
